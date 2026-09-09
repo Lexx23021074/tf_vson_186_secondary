@@ -31,3 +31,6 @@
 - [Lesson 10](module-06/lesson-02/README.md)
 
 [🍫 Design Simply Chocolate](https://www.figma.com/design/SHNrA7r9RBXLqDUVYZjL1g/Simply-Chocolate?node-id=609-1205&t=yuHrnGFbTTQo06K3-1)
+
+homework figma
+https://www.figma.com/file/wuEpGhwCepGCOUw7mZFRac/Web-Studio-(Version-5.0)?type=design&node-id=0-1&mode=design&t=HqslgV0OjDOknzIj-0
